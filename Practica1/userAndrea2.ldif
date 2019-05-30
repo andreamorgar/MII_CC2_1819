@@ -1,0 +1,8 @@
+dn: cn=andreamorgar,ou=Users,dc=openstack,dc=org
+objectClass: inetOrgPerson
+cn: andreamorgar
+sn: andreamorgar
+uid: andreamorgar
+mail: andreamorgar@example.com
+userPassword: andreamorgar
+

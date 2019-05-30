@@ -1,0 +1,15 @@
+dn: cn=Andrea11,ou=Users,dc=openstack,dc=org
+objectClass: inetOrgPerson
+cn: andrea11
+cn: andrea1222
+cn: andrea122
+sn: andrea11
+uid: andrea11
+carLicense: HISCAR 123
+homePhone: 555-111-2222
+mail: andrea11@example.com
+mail: andrea22@example.com
+mail: andrea33@example.com
+description: swell guy
+ou: Human Resources
+userPassword: andreamorgarz
